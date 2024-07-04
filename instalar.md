@@ -4,8 +4,6 @@
 
 - [x] Descargar [METAMOD DEV 2X LINUX](https://www.sourcemm.net/downloads.php/?branch=master)
 
-- [x] Descargar [Filezilla u otro gestor FTP](https://filezilla-project.org/)
-
 ### 1° Instalacion de Metamod
 
 * Extraiga Metamod y copie el directorio /addons/ a /game/csgo/.
